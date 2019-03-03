@@ -35,15 +35,15 @@ This code allows to connect widget PlumX with DSpace with JSPUI
 
 **Virtual exhibitions** for Fundamental Library BSU:
 
-+ [Реклама: из прошлого в настоящее](https://library.bsu.by/index.php/reklama-iz-proshlogo-v-nastoyashchee/) (HTML, CSS, JS, JQuery)
-+ [Открытки времен Первой мировой войны](https://library.bsu.by/index.php/wwo/) (HTML, CSS, JS, dragdealer.js)
-+ [Книги военных лет](https://library.bsu.by/index.php/warsbooks) (HTML, CSS, JS, JQuery)
-+ [Лучшая дореволюционная энциклопедия: «Энциклопедический словарь» Брокгауза и Ефрона](https://library.bsu.by/index.php/brokhaus-about) (HTML, CSS, JS, dragdealer.js)
-+ [Волшебный мир ниточного дизайна](https://library.bsu.by/index.php/main-nitka) (Joomla)
++ [Реклама: из прошлого в настоящее](https://library.bsu.by/index.php/reklama-iz-proshlogo-v-nastoyashchee/) *(HTML, CSS, JS, JQuery)*
++ [Открытки времен Первой мировой войны](https://library.bsu.by/index.php/wwo/) *(HTML, CSS, JS, dragdealer.js)*
++ [Книги военных лет](https://library.bsu.by/index.php/warsbooks) *(HTML, CSS, JS, JQuery)*
++ [Лучшая дореволюционная энциклопедия: «Энциклопедический словарь» Брокгауза и Ефрона](https://library.bsu.by/index.php/brokhaus-about) *(HTML, CSS, JS, dragdealer.js)*
++ [Волшебный мир ниточного дизайна](https://library.bsu.by/index.php/main-nitka) *(Joomla)*
 
-**Portfolio** like project for Web-development course (BNTU) (PHP, HTML, MySql, CSS, Bootstrap)
+**Portfolio** like project for Web-development course (BNTU) *(PHP, HTML, MySql, CSS, Bootstrap)*
 
-**Online shop** like project for PHP course (Belhard) 
+**Online shop** like project for PHP course *(Belhard)* 
 
 
 7. ## Education
