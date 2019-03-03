@@ -29,7 +29,6 @@ This code allows to connect widget PlumX with DSpace with JSPUI
     });
 </script>
 ```
-
 6. ## Experience
 **Local projects** based on HTML, CSS, JavaScript : databases for Children Library and applications on disks for magazine "Library suggests..."
 
