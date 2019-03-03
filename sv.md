@@ -1,13 +1,13 @@
-1. # Marina Saponenko
+# Marina Saponenko
 
-2. ## Contacts:
+## Contacts:
 **email:** windangel@mail.ru  
 **skype:** marina.s79
 
-3. ## Summary
+## Summary
 Responsible attitude to the assigned work, fast learner, creative thinking, drawing (not professionally).
 
-4. ## Skills
+## Skills
 + HTML, CSS, JavaScript, JQuery, PHP, Boostrap, MySQL; 
 + JAVA,  VB;
 + Photoshop, CorelDraw; 
@@ -15,7 +15,7 @@ Responsible attitude to the assigned work, fast learner, creative thinking, draw
 + Joomla, Denwer, OpenServer;
 + KisSlicer, G-Code
 
-5. ## Code
+## Code
 This code allows to connect widget PlumX with DSpace with JSPUI
 ```
 <script>
@@ -29,7 +29,8 @@ This code allows to connect widget PlumX with DSpace with JSPUI
     });
 </script>
 ```
-6. ## Experience
+## Experience
+
 **Local projects** based on HTML, CSS, JavaScript : databases for Children Library and applications on disks for magazine "Library suggests..."
 
 **Virtual exhibitions** for Fundamental Library BSU:
@@ -44,7 +45,7 @@ This code allows to connect widget PlumX with DSpace with JSPUI
 
 **Online shop** like project for PHP course *(Belhard)* 
 
-7. ## Education
+## Education
 **High education:** 
 + The Belarusian National Technical University. Republican Institute of Innovative Technologies 
 + The Belarusian State University of Culture and Arts  
@@ -63,5 +64,5 @@ This code allows to connect widget PlumX with DSpace with JSPUI
 - https://www.sololearn.com/
 - https://welcome.stepik.org/ru
 
-8. ## Level of English
+## Level of English
 Intermediate 
