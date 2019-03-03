@@ -45,7 +45,6 @@ This code allows to connect widget PlumX with DSpace with JSPUI
 
 **Online shop** like project for PHP course *(Belhard)* 
 
-
 7. ## Education
 **High education:** 
 + The Belarusian National Technical University. Republican Institute of Innovative Technologies 
