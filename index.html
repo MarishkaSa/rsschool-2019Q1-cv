@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>MarishkaSa</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:400,500,500i,600,600i,800,900&amp;subset=cyrillic"
+	 rel="stylesheet">
+	<link rel="stylesheet" media="screen" href="cv.css">
+</head>
+
+<body>
+
+	<header>
+		<div class="name">
+			<h1>Marina Saponenko</h1>
+		</div>
+		<nav>
+			<ul class="menu">
+				<li><a href="#sum">Summary</a></li>
+				<li><a href="#skil">Skills</a></li>
+				<li><a href="#cd">Code</a></li>
+				<li><a href="#ex">Experience</a></li>
+				<li><a href="#ed">Education</a></li>
+				<li><a href="#en">English</a></li>
+				<li><a href="#cont">Contacts</a></li>
+			</ul>
+		</nav>
+		<div class="photo"><img src="assets/myphoto.jpeg" alt="marishka cv"></div>
+	</header>
+
+	<main>
+		<div class="summary right-containter">
+			<div class="right-text">
+				<h2 id="sum">Summary</h2>
+				<p>Responsible attitude to the assigned work, fast learner, creative thinking, drawing (not
+					professionally).</p>
+			</div>
+		</div>
+
+		<div class="skill left-container">
+			<div class="left-text">
+				<h2 id="skil">Skills</h2>
+				<div class="skill-list">
+					<ul>
+						<li>HTML, CSS, JavaScript, JQuery, PHP, Boostrap, MySQL;</li>
+						<li>JAVA, VB;</li>
+						<li>Photoshop, CorelDraw;</li>
+						<li>Virtual Studio Code, NetBeans IDE, Sublime Text, NotePad++, Help & Manual 5;</li>
+						<li>Joomla, Denwer, OpenServer;</li>
+						<li>KisSlicer, G-Code</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="code right-containter">
+			<div class="right-text">
+				<h2 id="cd">Code</h2>
+				<p>This code allows to connect widget PlumX with DSpace with JSPUI</p>
+				<div class="code-read">
+					<code>
+						$(document).ready(function(){<br>
+						$('a').each(function(){<br>
+						var pUrl = $(location).attr('href'); <br>
+						var oldUrl = $(this).attr('href'); <br>
+						var newUrl = oldUrl.replace("http://elib.bsu.by/handle/123456789/166139", pUrl); <br>
+						$(this).attr("href", newUrl); <br>
+						});<br>
+						});
+					</code>
+				</div>
+			</div>
+		</div>
+
+		<div class="exper left-container">
+			<div class="left-text">
+				<h2 id="ex">Experience</h2>
+				<div class="exp1">
+					<p>Local projects based on HTML, CSS, JavaScript : databases for Children Library and applications
+						on disks for magazine “Library suggests…”</p>
+				</div>
+				<div class="exp2">
+					<p>Virtual exhibitions for Fundamental Library BSU:</p>
+					<ul class="exper-list">
+						<li><a href="https://library.bsu.by/index.php/reklama-iz-proshlogo-v-nastoyashchee/">Реклама:
+								из прошлого в настоящее </a> <em>(HTML, CSS, JS, JQuery)</em></li>
+						<li><a href="https://library.bsu.by/index.php/wwo/">Открытки времен Первой мировой войны </a>
+							<em>(HTML, CSS, JS, dragdealer.js)</em></li>
+						<li><a href="https://library.bsu.by/index.php/warsbooks">Книги военных лет </a> <em>(HTML, CSS,
+								JS, JQuery)</em></li>
+						<li><a href="https://library.bsu.by/index.php/brokhaus-about">Лучшая дореволюционная
+								энциклопедия: «Энциклопедический словарь» Брокгауза и Ефрона </a> <em>(HTML, CSS,
+								JS, dragdealer.js)</em></li>
+						<li><a href="https://library.bsu.by/index.php/main-nitka">Волшебный мир ниточного дизайна </a>
+							<em>(Joomla)</em></li>
+					</ul>
+				</div>
+				<div class="exp3">
+					<p>Portfolio like project for Web-development course (BNTU) <em>(PHP, HTML, MySql, CSS, Bootstrap)</em></p>
+					<p>Online shop like project for PHP course <em>(Belhard)</em></p>
+				</div>
+			</div>
+		</div>
+
+		<div class="edu right-containter">
+			<div class="right-text">
+				<h2 id="ed">Education</h2>
+				<h3>High education:</h3>
+				<p>The Belarusian National Technical University. Republican Institute of Innovative Technologies</p>
+				<p>The Belarusian State University of Culture and Arts</p>
+				<h3>Courses:</h3>
+				<ul class="edu-list">
+					<li>BSU: School SMM BSU</li>
+					<li>RIHE: Flash technology in education</li>
+					<li>Belhard: Developing web-based PHP applications</li>
+					<li>Belhard: Introduction to software testing</li>
+					<li>“BelSoft”: computer graphics: CorelDraw</li>
+					<li>“BelSoft”: computer graphics: Photoshop</li>
+					<li>“BelSoft”: web-design: Flash</li>
+					<li>“BelSoft”: web-design: Flash</li>
+					<li>“BelSoft”: web-design: Java-Script</li>
+					<li>“BelSoft”: web-design: HTML</li>
+					<li><a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a></li>
+					<li><a href="https://www.sololearn.com/">https://www.sololearn.com/</a></li>
+					<li><a href="https://welcome.stepik.org/ru">https://welcome.stepik.org/ru</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="eng left-container">
+			<div class="left-text">
+				<h2 id="en">Level of English</h2>
+				<p>Intermediate</p>
+			</div>
+		</div>
+	</main>
+
+	<footer>
+		<div class="cont-text">
+			<h3 id="cont">Contacts:</h3>
+		</div>
+		<div class="contacts">
+			<p><a href="mailto:windangel@mail.ru"><img src="assets/envelope.png" alt="mail">windangel@mail.ru</a> </p>
+			<p><a href="skype:marina.s79?call"><img src="assets/skype.png" alt="skype"> skype: marina.s79</a></p>
+		</div>
+	</footer>
+</body>
+
+</html>
