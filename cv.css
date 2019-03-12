@@ -67,7 +67,7 @@ nav li {
 }
 
 nav li:first-child::before {
-  content: '';
+  content: "";
   display: inline-block;
   width: 20px;
   height: 5px;
@@ -83,7 +83,7 @@ nav li:first-child::before {
 }
 
 nav li::after {
-  content: '';
+  content: "";
   display: inline-block;
   width: 20px;
   height: 5px;
