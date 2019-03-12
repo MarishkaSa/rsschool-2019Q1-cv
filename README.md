@@ -1,3 +1,3 @@
 
-https://marishkasa.github.io/rsschool-2019Q1-cv/sv
+https://marishkasa.github.io/rsschool-2019Q1-cv/sv.html
 
